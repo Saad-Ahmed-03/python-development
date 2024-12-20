@@ -1,18 +1,6 @@
-# python-development\
-
+# Python Development
 
 This git repository contains various Python scripts created for practice and learning purposes. Each script is designed to demonstrate different aspects of Python programming, including but not limited to:
-
-## Index of Topics
-### 1. Basic Python Scripts
-- **hello_world.py**: A simple script that prints "Hello, World!" to the console.
-- **variables.py**: Demonstrates how to declare and use variables in Python.
-- **data_types.py**: Covers the different data types available in Python, including integers, floats,
-strings, booleans, lists, and dictionaries.
-
-***********************************************************************************************************
-
-This folder contains various Python scripts created for practice and learning purposes. Each script is designed to demonstrate different aspects of Python programming, including but not limited to:
 
 ## Index of Topics
 
@@ -29,3 +17,5 @@ This folder contains various Python scripts created for practice and learning pu
    - 1.10 [Dictionaries](dictionaries.py)
 
 Feel free to explore the scripts and modify them to enhance your understanding of Python.
+
+**********************************************************************************************************
