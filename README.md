@@ -16,6 +16,19 @@ This git repository contains various Python scripts created for practice and lea
    - 1.9 [Tuples](tuples.py)
    - 1.10 [Dictionaries](dictionaries.py)
 
-Feel free to explore the scripts and modify them to enhance your understanding of Python.
+
+Feel free to explore the scripts and modify them to enhance your understanding of Python by copying the code and solving it.
+
+**********************************************************************************************************
+
+2. **Solve the Basics**
+
+   - 2.1 [Basic Exercise](Exercise-to-practise/Basic-Exercise.md)
+   - 2.2 [Intermediate Exercise](Exercise-to-practise/Intermediate-exercise.ipynb)
+   - 2.3 [Advanced Exercise](Exercise-to-practise/Advanced-exercise.md)
+   - 2.4 [Advanced Exercise](Exercise-to-practise/Additional-Exercises.md)
+
+
+Feel free to explore the potentials regarding to solving the python bsaics by copying the code and solving it.
 
 **********************************************************************************************************
